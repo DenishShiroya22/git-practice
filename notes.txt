@@ -1,1 +1,1 @@
-We are testing conflicts.
+We are testing conflicts on the Left side.
