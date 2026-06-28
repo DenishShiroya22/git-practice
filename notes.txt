@@ -1,1 +1,1 @@
-Conflict branch version: Practice makes us masters!
+We are testing conflicts.
